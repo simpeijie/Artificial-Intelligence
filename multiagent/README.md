@@ -1,3 +1,5 @@
+# Multi-Agent
+
 This project includes designed agents (Pacman and ghosts) for the classic version of Pacman as well as implement both minimax with alpha-beta pruning and expectimax search. The point of this project is to get Pacman to reach his goals in scenarios where there are more than one adversary.
 
 ## Implementation
@@ -12,7 +14,7 @@ When Pacman believes that his death is unavoidable, he will try to end the game 
 
 An alpha beta agent prunes unnecessary actions to more efficiently explore the minimax tree. The psuedo-code below represents the algorithm implemented.
 
-[](images/ab_agent.png)
+[Ab-agent](images/ab_agent.png)
 
 ### Expectimax Agent
 
