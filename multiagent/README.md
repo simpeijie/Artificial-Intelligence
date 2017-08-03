@@ -12,9 +12,7 @@ When Pacman believes that his death is unavoidable, he will try to end the game 
 
 ### Alpha-Beta Agent
 
-An alpha beta agent prunes unnecessary actions to more efficiently explore the minimax tree. The psuedo-code below represents the algorithm implemented.
-
-![Ab-agent](images/ab_agent.png)
+An alpha beta agent prunes unnecessary actions to more efficiently explore the minimax tree. 
 
 ### Expectimax Agent
 
